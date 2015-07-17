@@ -1,8 +1,7 @@
 {
 "name": "wakeup",
   "title": "Wakeup",
-  "description": "A JQuery plugin that will help detecting waking up from sleep and/or 
- * hibernation and executing assigned functions. Forked from paulokopny/jquery.wakeup-plugin",
+  "description": "A JQuery plugin that will help detecting waking up from sleep and/or hibernation and executing assigned functions. Forked from paulokopny/jquery.wakeup-plugin",
   "keywords": [
     "wakeup",
     "jquery",
