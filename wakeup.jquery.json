@@ -1,0 +1,33 @@
+{
+  "name": "wakeup",
+  "title": "Wakeup",
+  "description": "A JQuery plugin that will help detecting waking up from sleep and/or 
+ * hibernation and executing assigned functions. Forked from paulokopny/jquery.wakeup-plugin",
+  "keywords": [
+    "wakeup",
+    "jquery",
+  ],
+  "version": "1.0.0-2015.07.16",
+  "author": {
+    "name": "LudoBermejo (using paulokopny code)",
+    "url": "http://www.ludobermejo.es"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://malsup.github.com/mit-license.txt"
+    },
+    {
+      "type": "GPL",
+      "url": "http://malsup.github.com/gpl-license-v2.txt"
+    }
+  ],
+  "bugs": "https://github.com/ludobermejo/jquery.wakeup/issues",
+  "homepage": "https://github.com/ludobermejo/jquery.wakeup",
+  "docs": "https://github.com/ludobermejo/jquery.wakeup",
+  "download": "https://github.com/ludobermejo/jquery.wakeup/jquery.wakeup.js",
+  "dependencies": {
+    "jquery": ">=1.7"
+  }
+}
+

@@ -1,0 +1,34 @@
+{
+    "name": "components/jquery-wakeup",
+    "description": "A JQuery plugin that will help detecting waking up from sleep and/or 
+ * hibernation and executing assigned functions. Forked from paulokopny/jquery.wakeup-plugin",
+    "keywords": [
+    "wakeup",
+    "jquery",
+    ],
+    "license": ["MIT", "GPL"],
+    "type": "component",
+    "homepage": "https://github.com/ludobermejo/jquery.wakeup",
+    "authors": [
+        {
+            "name": "LudoBermejo (using paulokopny code)",
+            "homepage": "http://www.ludobermejo.es"
+        }
+    ],
+    "require": {
+        "robloach/component-installer": "*",
+        "components/jquery": ">=1.7"
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "jquery.wakeup.js"
+            ],
+            "shim": {
+                "deps": [
+                    "jquery"
+                ]
+            }
+        }
+    }
+}
