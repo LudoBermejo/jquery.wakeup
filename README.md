@@ -1,4 +1,6 @@
-# WAKEUP - Detect when computer has recover from stand-by mode
+# WAKEUP 
+
+Detect when computer has recovered from stand-by mode
 
 ## Disclaimer
 
