@@ -8,7 +8,7 @@ This code comes from
 
 https://github.com/paulokopny/jquery.wakeup-plugin
 
-This proyect doesn't have any bower component associed so I make one.
+This proyect doesn't have any bower component associated so I made one.
 
 Usage
 =====
