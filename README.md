@@ -1,6 +1,6 @@
 # WAKEUP 
 
-Detect when computer has recovered from stand-by mode
+A plugin for jquery that detects when computer has recovered from stand-by mode
 
 ## Disclaimer
 
